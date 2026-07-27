@@ -1,23 +1,25 @@
-# 👨‍💻 Taouil Abdellatif | Développeur Full-Stack
+<div align="center"> 
+  
+  ### 👋 Hi, I'm Abdellatif Taouil 
+  
+  ### 💻 Full-Stack Software Engineer Building scalable web applications • Designing modern user experiences • Learning something new every day 🚀 
+  <p> <a href="https://github.com/Taouil-abdo"> <img src="https://img.shields.io/github/followers/Taouil-abdo?label=Followers&style=for-the-badge&logo=github&color=181717" /> </a> <img src="https://komarev.com/ghpvc/?username=Taouil-abdo&style=for-the-badge&color=0e75b6" /> 
+  </p> 
+  
+</div>
 
-![Profile Banner](https://www.example.com/banner-image.jpg)
+--- 
 
-## 📱 Contact Information
-- 📞 **Phone:** +212634748166  
-- ✉️ **Email:** [abdotaouil03@gmail.com](mailto:abdotaouil03@gmail.com)  
-- 🌐 **GitHub:** [@abdellatif-taouil](https://github.com/abdellatif-taouil)  
-- 🔗 **LinkedIn:** [@Taouil-abdo](https://www.linkedin.com/in/Taouil-abdo)  
-- 🐦 **Twitter:** [@abdellatif-taouil](https://twitter.com/abdellatif-taouil)
+## 🚀 About Me 💡 
+Passionate about building scalable web applications and modern software solutions. 🎯 I enjoy transforming ideas into reliable, high-performance applications using modern technologies. 🌱 Currently expanding my expertise in **Odoo**, **AWS**, **Kubernetes**, **System Design**, and **Cloud Architecture**. ⚡ Always exploring better software architecture, clean code practices, and backend performance. 
 
----
+--- 
 
-## 🎯 À propos de moi
-Développeur Full-Stack passionné, spécialisé dans le développement d’applications web modernes et performantes.  
-J’aime créer des solutions à la fois esthétiques et fonctionnelles avec **Laravel**, **PHP**, **MySQL** et **JavaScript**, tout en respectant les bonnes pratiques et la méthodologie **Agile (Scrum)**.  
+## 📬 Connect With Me 
+<p align="left"> <a href="mailto:abdotaouil03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/Taouil-abdo"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Taouil-abdo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://x.com/"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> 
+</p>
 
----
-
-## 🛠 Compétences Techniques
+## 🛠 Technical Skills
 ---
 
 ## 💻 Frontend
@@ -76,18 +78,27 @@ J’aime créer des solutions à la fois esthétiques et fonctionnelles avec **L
 
 
 ---
+## 🎨 Design & Architecture
 
-### 🎨 Design & Conception
-🎨 **Figma** | 📘 **UML**
-
----
-
-### 🧠 Méthodologies & Gestion de Projet
-🌀 **Agile (Scrum)** | 📋 **Jira** | 🗂️ **Trello**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-02569B?style=flat-square" />
+</p>
 
 ---
 
-### 🧩 Outils & Versioning
+## 📋 Project Management & Methodologies
+
+<p>
+  <img src="https://img.shields.io/badge/Agile-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Tools & Versioning
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -100,11 +111,16 @@ J’aime créer des solutions à la fois esthétiques et fonctionnelles avec **L
 
 ---
 
-## 🌐 Compétences Transversales
-- 💡 Flexibilité  
-- 🧭 Sens de responsabilité  
-- 🤝 Esprit d'équipe  
-- ⏰ Discipline  
+## 🌍 Soft Skills
+
+- 🧩 Problem Solving
+- 🤝 Team Collaboration
+- 📚 Continuous Learning
+- ⚡ Adaptability
+- 🎯 Responsibility
+- 💬 Communication
+- ⏱️ Time Management
+- 🚀 Self-Motivation
 
 ---
 
@@ -128,4 +144,4 @@ J’aime créer des solutions à la fois esthétiques et fonctionnelles avec **L
 
 ---
 
-> 💬 *"Le code est un art — il doit être clair, élégant et logique."*
+> 💬 *"Code is an art — it must be clear, elegant, and logical."*
