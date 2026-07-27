@@ -127,15 +127,11 @@ Passionate about building scalable web applications and modern software solution
 ## 🗣 Langues
 - 🇫🇷 **Français** : B1
 - 🇬🇧 **Anglais** : B2
-
+- 🇬🇧 **Spanish** : A0
+- 🇬🇧 **Deutsch** : A0
+  
 ---
 
-## 📊 GitHub Stats
-
-![Taouil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdellatif-taouil&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-taouil&layout=compact&theme=radical)
-
----
 
 ## 🔗 Connectez-vous avec moi
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Taouil-abdo)
